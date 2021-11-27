@@ -65,7 +65,7 @@
         android:orderInCategory="5"
         android:showAsAction="ifRoom"
         android:title="@string/select_all"
-        android:visible="true"/>
+        android:visible="true" />
     
     <item
         android:id="@+id/menu_create_folder"
